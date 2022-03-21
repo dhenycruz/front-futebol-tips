@@ -12,6 +12,9 @@ const Home: React.FC = () => {
         <h1>Página inicial</h1>
         <ImageSVG width="50" height="50" />
       </div>
+      <main>
+        <h2>Main</h2>
+      </main>
     </>
   )
 }

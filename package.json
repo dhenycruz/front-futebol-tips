@@ -9,8 +9,7 @@
     "start": "next start",
     "lint": "next lint",
     "test": "jest --watchAll",
-    "coverage": "jest --coverage",
-    "cypress": "cypress open"
+    "coverage": "jest --coverage"
   },
   "keywords": [],
   "author": "",

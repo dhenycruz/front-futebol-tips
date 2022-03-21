@@ -13,4 +13,4 @@ jobs:
            start: yarn run dev
         env:
           # pass the Dashboard record key as an environment variable
-          CYPRESS_RECORD_KEY: <SUA CHAVE GERADA PELO CYPRESS>
+          CYPRESS_RECORD_KEY: b24b8c71-62a4-427b-b46a-5bb25af63155

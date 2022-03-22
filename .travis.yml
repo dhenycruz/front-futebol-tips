@@ -1,11 +1,4 @@
-language: node_js
-node_js:
-  - "10"
-
-install: yarn install --frozen-lockfile
-
-cache:
-  - yarn
-
-script:
-  - yarn run test
+language: ruby
+rvm:
+ - 2.2
+ - jruby

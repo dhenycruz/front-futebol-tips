@@ -13,7 +13,7 @@ const Home: React.FC = () => {
         <ImageSVG width="50" height="50" />
       </div>
       <main>
-        <h2>Main2</h2>
+        <h2>testing Travis Up</h2>
       </main>
     </>
   )
